@@ -1,6 +1,6 @@
 # Exception Handling in C++
 # Aim
-To study and implement the concept of Exception Handling in C++.
+# To study and implement the concept of Exception Handling in C++.
 
 Software
 Visual Studio Code (VS Code)
